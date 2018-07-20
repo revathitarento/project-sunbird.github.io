@@ -8,7 +8,7 @@ keywords: Uploading content, upload image, upload pdf, upload HTML Archive, uplo
 published: true
 ---
 ## Overview
-
+ 
 Content created or available offline can be uploaded on Sunbird. The following content formats are supported on Sunbird:
 
 - Video (.mp4, .webm)

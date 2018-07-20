@@ -46,7 +46,7 @@ The maximum file size supported for upload is 50 MB
     <th style="width:65%;">Screen</th>
  </tr>
  <tr>
-    <td>1. Enter <b>URL</b> of the Youtube video or the external website URL <br>2. Click <strong>Browse</strong> to select the desired file for upload from your local storage. You can alternatively <strong>Drag & Drop</strong> files from your local <br>3. Click <strong>Upload</strong> to upload the selected content <br> </td>
+    <td>1. Enter <b>URL</b> of the Youtube video or the external website link <br>2. Click <strong>Browse</strong> to select the desired file for upload from your local storage. You can alternatively <strong>Drag & Drop</strong> files from your local <br>3. Click <strong>Upload</strong> to upload the selected content <br> </td>
       <td><img src="pages/features-documentation/images/upload_upldcontent.png"></td>
   </tr>
   </table>
